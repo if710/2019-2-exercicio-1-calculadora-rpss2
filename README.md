@@ -23,8 +23,8 @@ Para entregar o exercício, responda o [formulário de entrega](https://forms.gl
 
 | Passo | Completou? |
 | ------ | ------ |
-| 1 | **não** |
-| 2 | **não** |
-| 3 | **não** |
-| 4 | **não** |
-| 5 | **não** |
+| 1 | **SIM** |
+| 2 | **SIM** |
+| 3 | **SIM** |
+| 4 | **SIM** |
+| 5 | **SIM** |
